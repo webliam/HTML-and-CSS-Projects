@@ -1,0 +1,23 @@
+table{
+    border:1px solid silver;
+}
+th, td{
+    border-color: green;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    background-color: snow;
+    color: midnightblue;
+    width: 700px;
+}
+tr{
+    text-align: left;
+}
+td:hover{
+background-color:orchid;
+color: darkslategrey;
+}
+th{
+    height: 80px;
+    background-color: dimgrey;
+    color: gold;
+}
