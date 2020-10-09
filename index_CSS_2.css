@@ -1,0 +1,24 @@
+h2:after {
+    content: ' \2714 ' ;
+    text-shadow: 2px 2px #ff0000;
+}
+li:before {
+    content: ' \2714 ' ;
+    text-shadow: 2px 2px #ff0000;
+}
+
+li:after {
+    content: ' \2745';
+    text-shadow: 2px 2px #ff0000;
+}
+
+ol{
+    list-style-type: none;
+}
+ul{
+    list-style-type: none;
+    color: goldenrod;
+}
+h6::before {
+    content: ' \00A9';
+}
